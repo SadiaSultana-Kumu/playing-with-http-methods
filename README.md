@@ -1,1 +1,1 @@
-# playing-with-http-methos
+# playing-with-http-methods
